@@ -30,12 +30,12 @@ def upsert_documents(documents: list[Document]) -> int:
 def vector_search(query: str, top_k: int | None = None) -> list[RetrievedChunk]:
     top_k = top_k or settings.top_k_vector
     vector = embed_text(query)
-    hits = get_qdrant_client().search(
+    hits = get_qdrant_client().query_points(
         collection_name=settings.qdrant_collection,
-        query_vector=vector,
+        query=vector,
         limit=top_k,
         with_payload=True,
-    )
+    ).points
     results: list[RetrievedChunk] = []
     for h in hits:
         payload = h.payload or {}
