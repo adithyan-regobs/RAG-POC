@@ -1,0 +1,25 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+python-dotenv>=1.0.1
+
+# LLM / Embeddings
+openai>=1.40.0
+
+# Vector DB
+qdrant-client>=1.11.0
+
+# Keyword search
+rank-bm25>=0.2.2
+
+# Reranking
+sentence-transformers>=3.0.0
+
+# Orchestration
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# Utils
+numpy>=1.26.0
+tiktoken>=0.7.0
