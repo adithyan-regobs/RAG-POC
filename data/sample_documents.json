@@ -1,374 +1,114 @@
 [
   {
-    "text": "The Family Law Act governs the legal relationships between spouses, de facto partners, parents, and children. It codifies no-fault divorce, property adjustment, spousal maintenance, and the welfare of children as the paramount consideration in parenting disputes.",
-    "source": "family_law_act_overview.md",
-    "law_area": "family",
-    "document_type": "commentary"
-  },
-  {
-    "text": "A marriage is dissolved by order of the court on the sole ground that the marriage has broken down irretrievably, evidenced by the parties having lived separately and apart for a continuous period of twelve months immediately preceding the filing of the application.",
-    "source": "family_law_act_s48.md",
+    "id": "divorce_grounds",
+    "text": "The only ground for divorce in Australia is the irretrievable breakdown of the marriage. This is shown by the parties having lived separately and apart for a continuous period of at least twelve months before filing the application.",
+    "source": "divorce_grounds.md",
     "law_area": "divorce",
     "document_type": "statute"
   },
   {
-    "text": "Separation under one roof is permitted where the parties can demonstrate a change in the nature of their relationship, including ceasing sexual relations, sleeping in separate rooms, dividing household finances, and informing family and friends of the separation.",
-    "source": "separation_under_one_roof_guide.md",
+    "id": "divorce_separation_under_one_roof",
+    "text": "Separation under one roof is permitted. Parties must show a change in the nature of their relationship, such as sleeping in separate rooms, dividing household finances, and informing family and friends of the separation.",
+    "source": "divorce_separation_under_one_roof.md",
     "law_area": "divorce",
     "document_type": "practice_note"
   },
   {
-    "text": "In Ashford v Ashford [2019], the Court held that a six-week reconciliation attempt during the separation period does not reset the twelve-month clock, provided the total time apart exceeds twelve months and the reconciliation was genuinely brief.",
-    "source": "ashford_v_ashford_2019.pdf",
-    "law_area": "divorce",
-    "document_type": "judgment"
-  },
-  {
-    "text": "An application for divorce where there are children of the marriage under the age of eighteen must include arrangements for the care, welfare, and development of those children. The court must be satisfied that proper arrangements have been made before granting a divorce order.",
-    "source": "family_law_act_s55a.md",
-    "law_area": "divorce",
-    "document_type": "statute"
-  },
-  {
-    "text": "Parties to a property settlement owe each other, and owe the court, a duty of full and frank disclosure of their financial circumstances. This duty is ongoing from the commencement of proceedings until final orders and encompasses all sources of earnings, interest, income, property, and other financial resources.",
-    "source": "family_law_rules_r6_06.md",
-    "law_area": "asset_disclosure",
-    "document_type": "statute"
-  },
-  {
-    "text": "Full and frank disclosure extends to interests held through trusts, corporations, partnerships, and any entity in which the party has direct or indirect control. A party cannot hide behind a corporate veil to avoid disclosure where they exercise effective control over the entity's decisions.",
-    "source": "corporate_disclosure_commentary.md",
-    "law_area": "asset_disclosure",
-    "document_type": "commentary"
-  },
-  {
-    "text": "Failure to disclose a material financial asset may result in the court setting aside final property orders under section 79A, even years after the orders were made, if the non-disclosure has caused a miscarriage of justice.",
-    "source": "family_law_act_s79a.md",
-    "law_area": "asset_disclosure",
-    "document_type": "statute"
-  },
-  {
-    "text": "In Weston v Weston [2020], the husband's failure to disclose a beneficial interest in an offshore trust valued at approximately $2.4 million resulted in the original orders being set aside and the pool reassessed, with an adjustment of 10% in the wife's favour to reflect the serious nature of the non-disclosure.",
-    "source": "weston_v_weston_2020.pdf",
-    "law_area": "asset_disclosure",
-    "document_type": "judgment"
-  },
-  {
-    "text": "When determining parenting arrangements, the best interests of the child are the paramount consideration. The primary considerations are the benefit of a meaningful relationship with both parents and the need to protect the child from physical or psychological harm, with the latter given greater weight where they conflict.",
-    "source": "family_law_act_s60cc.md",
-    "law_area": "custody",
-    "document_type": "statute"
-  },
-  {
-    "text": "There is a presumption that equal shared parental responsibility is in the best interests of the child. This presumption does not apply where there are reasonable grounds to believe that a parent has engaged in abuse of the child or family violence.",
-    "source": "family_law_act_s61da.md",
-    "law_area": "custody",
-    "document_type": "statute"
-  },
-  {
-    "text": "Equal shared parental responsibility concerns the allocation of major long-term decisions, such as education, religion, and health care. It does not mean, and should not be confused with, equal time spent with each parent.",
-    "source": "parental_responsibility_explainer.md",
-    "law_area": "custody",
-    "document_type": "commentary"
-  },
-  {
-    "text": "Where an order for equal shared parental responsibility is made, the court must then consider whether the child spending equal time with each parent is reasonably practicable and in the child's best interests. If not, the court must consider substantial and significant time.",
-    "source": "family_law_act_s65daa.md",
-    "law_area": "custody",
-    "document_type": "statute"
-  },
-  {
-    "text": "Substantial and significant time includes time that falls on both weekdays and weekends and holidays, and allows the parent to be involved in the child's daily routine, events of particular significance to the child, and occasions of special significance to the parent.",
-    "source": "substantial_significant_time_note.md",
-    "law_area": "custody",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "In Harper v Harper [2018], the Court declined to order equal time arrangements where the parents lived in different cities, noting that school-week disruption and travel fatigue outweighed the benefit of equal time for an eight-year-old child.",
-    "source": "harper_v_harper_2018.pdf",
-    "law_area": "custody",
-    "document_type": "judgment"
-  },
-  {
-    "text": "Spousal maintenance may be ordered where one party cannot adequately support themselves and the other party has the capacity to pay. Relevant factors include the age and health of the parties, income and earning capacity, and the duration of the marriage.",
-    "source": "family_law_act_s75.md",
-    "law_area": "family",
-    "document_type": "statute"
-  },
-  {
-    "text": "The four-step approach to property settlement requires the court to: (1) identify and value the property, liabilities, and financial resources of the parties; (2) assess contributions; (3) consider future needs factors under section 75(2); and (4) determine whether the proposed order is just and equitable.",
-    "source": "four_step_approach_note.md",
-    "law_area": "family",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Contributions may be financial, non-financial, or in the role of homemaker or parent. Non-financial contributions such as homemaking and child-rearing are to be given equal weight to direct financial contributions, particularly in long marriages.",
-    "source": "contributions_commentary.md",
-    "law_area": "family",
-    "document_type": "commentary"
-  },
-  {
-    "text": "An initial contribution brought into the marriage does not necessarily retain the same weight over the course of a long relationship. The erosion of initial contributions may occur where the contributing party's efforts have been matched or exceeded by the other party's contributions over decades.",
-    "source": "initial_contributions_analysis.md",
-    "law_area": "family",
-    "document_type": "commentary"
-  },
-  {
-    "text": "Binding Financial Agreements entered into before, during, or after a marriage or de facto relationship allow parties to contract out of the ordinary property adjustment regime, provided each party has received independent legal advice and the agreement is not vitiated by unconscionable conduct, duress, or material non-disclosure.",
-    "source": "bfa_commentary.md",
-    "law_area": "family",
-    "document_type": "commentary"
-  },
-  {
-    "text": "De facto partners who have lived together on a genuine domestic basis for a period of at least two years, or who have a child together, or who have made substantial contributions, may apply for property settlement on the same basis as married couples.",
-    "source": "de_facto_eligibility_note.md",
-    "law_area": "family",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Applications for de facto property adjustment must be commenced within two years of the end of the relationship. Leave to apply out of time may be granted where hardship would otherwise be caused to the applicant or a child of the relationship.",
-    "source": "family_law_act_s44_5.md",
-    "law_area": "family",
-    "document_type": "statute"
-  },
-  {
-    "text": "Each party must file a Financial Statement setting out income, expenses, assets, and liabilities. Where complexity requires it, a more detailed disclosure by way of affidavit is appropriate, exhibiting supporting documents including tax returns, bank statements, and superannuation statements for the preceding three years.",
-    "source": "financial_statement_guide.md",
-    "law_area": "asset_disclosure",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "Superannuation interests are treated as property for the purposes of family law proceedings and may be split by order or agreement. Valuation of defined benefit interests requires application of the prescribed methodology in the Family Law (Superannuation) Regulations.",
-    "source": "superannuation_splitting_guide.md",
-    "law_area": "asset_disclosure",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "A party may issue a subpoena to a third party, such as a bank or accountant, to produce documents relevant to the other party's financial circumstances. Subpoenas must be relevant, specific, and not oppressive, and are subject to objection on grounds including privilege and confidentiality.",
-    "source": "subpoena_practice_note.md",
-    "law_area": "asset_disclosure",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Where a party has dissipated assets in anticipation of separation, the court may add back the value of dissipated property to the asset pool. In Nguyen v Nguyen [2017], gambling losses of approximately $380,000 incurred in the year before separation were added back against the husband's entitlement.",
-    "source": "nguyen_v_nguyen_2017.pdf",
-    "law_area": "asset_disclosure",
-    "document_type": "judgment"
-  },
-  {
-    "text": "Addbacks remain exceptional and are most commonly made where the conduct amounts to premature distribution of matrimonial property, the use of joint funds for legal costs, or the wanton and deliberate dissipation of assets. Ordinary living expenses, even if generous, are not typically added back.",
-    "source": "addbacks_commentary.md",
-    "law_area": "asset_disclosure",
-    "document_type": "commentary"
-  },
-  {
-    "text": "Where the court suspects a party is hiding assets, it may draw adverse inferences from the absence of disclosure and may resolve doubts in favour of the innocent party. This evidentiary approach was confirmed in Chang v Su [2016] and reaffirmed in numerous subsequent authorities.",
-    "source": "adverse_inferences_note.md",
-    "law_area": "asset_disclosure",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Family violence is defined broadly to include physical, sexual, emotional, psychological, and economic abuse, as well as coercive or controlling behaviour that causes a family member to be fearful. The definition applies across both parenting and property proceedings.",
-    "source": "family_law_act_s4ab.md",
-    "law_area": "family",
-    "document_type": "statute"
-  },
-  {
-    "text": "Where family violence has been established, it may affect parenting arrangements, displace the presumption of equal shared parental responsibility, and in property proceedings may give rise to a Kennon adjustment recognising the greater difficulty of contributions made in a violent household.",
-    "source": "family_violence_overview.md",
-    "law_area": "family",
-    "document_type": "commentary"
-  },
-  {
-    "text": "A Kennon adjustment is not automatic and requires evidence that the violent conduct had a significant adverse impact on the other party's contributions or made those contributions significantly more arduous. The impact must be established with particularity, not merely alleged in general terms.",
-    "source": "kennon_adjustment_note.md",
-    "law_area": "family",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "In proceedings involving allegations of family violence, the court may make interim orders for the occupation of the matrimonial home and restraining the other party from approaching the applicant or the children, pending final determination of the proceedings.",
-    "source": "interim_orders_guide.md",
-    "law_area": "family",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "A parenting order remains in force until a subsequent order is made or the child turns eighteen. Parties seeking to vary a final parenting order must demonstrate a significant change in circumstances since the last order, pursuant to the rule in Rice and Asplund.",
-    "source": "rice_and_asplund_principle.md",
-    "law_area": "custody",
-    "document_type": "commentary"
-  },
-  {
-    "text": "In Patel v Donovan [2022], the relocation of the mother and child from Melbourne to Perth was refused where the Court found the father had a meaningful and frequent relationship with the child, and the proposed relocation was motivated primarily by the mother's desire to distance the child from the father.",
-    "source": "patel_v_donovan_2022.pdf",
-    "law_area": "custody",
-    "document_type": "judgment"
-  },
-  {
-    "text": "Relocation applications require the court to weigh the benefits of the proposed move, the reasons for the move, and the impact on the child's relationship with the non-relocating parent. There is no presumption for or against relocation, and each case turns on its particular facts.",
-    "source": "relocation_commentary.md",
-    "law_area": "custody",
-    "document_type": "commentary"
-  },
-  {
-    "text": "An Independent Children's Lawyer may be appointed where the proceedings involve serious allegations of abuse, entrenched conflict, allegations of mental illness or substance abuse, or where the court otherwise considers the child's interests require independent representation.",
-    "source": "icl_appointment_guidelines.md",
-    "law_area": "custody",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "The views of a child are a relevant consideration in parenting proceedings, but no particular weight is prescribed. Factors relevant to the weight given include the child's age, maturity, level of understanding, and whether the views appear to have been independently formed or influenced by a parent.",
-    "source": "childrens_views_note.md",
-    "law_area": "custody",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "A family report prepared by a court-appointed or private family consultant assists the court in understanding the family dynamics, the child's relationships with each parent, and the child's wishes. The report is not determinative but is frequently highly influential.",
-    "source": "family_report_guide.md",
-    "law_area": "custody",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "Contravention of a parenting order without reasonable excuse may result in the contravening party being ordered to attend a post-separation parenting program, make up time to the other parent, pay compensation for reasonable expenses, or in serious cases be fined or imprisoned.",
-    "source": "contravention_regime_note.md",
-    "law_area": "custody",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "A 'reasonable excuse' for contravening a parenting order includes the contravening party not understanding the obligation, or the contravention being necessary to protect the health or safety of a person and the contravention not lasting longer than was necessary.",
-    "source": "family_law_act_s70nae.md",
-    "law_area": "custody",
-    "document_type": "statute"
-  },
-  {
-    "text": "Child support is administered under the Child Support (Assessment) Act, which applies a statutory formula based on the parents' combined taxable incomes, the number of nights of care, and the ages of the children. Departure from the formula requires an application on specified grounds.",
-    "source": "child_support_overview.md",
-    "law_area": "family",
-    "document_type": "commentary"
-  },
-  {
-    "text": "A parent seeking a departure from the administrative child support assessment must establish a ground under section 117 of the Child Support (Assessment) Act, such as special needs of the child, high costs of contact, or additional income, earning capacity, property, or financial resources not reflected in the taxable income assessment.",
-    "source": "child_support_departure_note.md",
-    "law_area": "family",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Where a party fails to comply with a disclosure order, the court may impose sanctions including cost orders, the striking out of the non-complying party's case in whole or part, the drawing of adverse inferences, and in extreme cases findings of contempt.",
-    "source": "disclosure_sanctions_guide.md",
-    "law_area": "asset_disclosure",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "A forensic accountant's report is often necessary where one party operates a closely-held business or has complex interests in trusts or partnerships. The expert must provide an independent valuation and address the likely cash flow available for distribution.",
-    "source": "forensic_accounting_commentary.md",
-    "law_area": "asset_disclosure",
-    "document_type": "commentary"
-  },
-  {
-    "text": "Valuation of a private business typically proceeds on the basis of capitalisation of future maintainable earnings, with adjustments for non-recurring items and proprietor remuneration. Minority interests may attract a discount for lack of control and lack of marketability.",
-    "source": "business_valuation_note.md",
-    "law_area": "asset_disclosure",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Loans from family members may be treated as genuine liabilities or disregarded as notional debts depending on the evidence of intent to repay, documentation, history of repayments, and commercial characteristics. A loan agreement executed shortly before separation will be scrutinised carefully.",
-    "source": "family_loans_commentary.md",
-    "law_area": "asset_disclosure",
-    "document_type": "commentary"
-  },
-  {
-    "text": "In Bianchi v Bianchi [2021], the Court disregarded a $650,000 'loan' purportedly advanced by the husband's father, noting the absence of a written agreement, no repayments over twelve years, and the father's concession during cross-examination that he did not expect repayment.",
-    "source": "bianchi_v_bianchi_2021.pdf",
-    "law_area": "asset_disclosure",
-    "document_type": "judgment"
-  },
-  {
-    "text": "Applications for divorce must be filed electronically through the Commonwealth Courts Portal. The application must be accompanied by a copy of the marriage certificate, proof of citizenship or residency, and the filing fee, unless a reduction or exemption applies.",
-    "source": "divorce_application_procedural_guide.md",
+    "id": "divorce_application",
+    "text": "A divorce application is filed electronically through the Commonwealth Courts Portal. The application must include the marriage certificate, proof of citizenship or residency, and the filing fee.",
+    "source": "divorce_application.md",
     "law_area": "divorce",
     "document_type": "procedural_guide"
   },
   {
-    "text": "Service of a divorce application on the respondent must be effected at least 28 days before the hearing date where the respondent is in Australia, and at least 42 days before the hearing date where the respondent is overseas. Personal service is required unless dispensed with by order.",
-    "source": "service_of_divorce_note.md",
-    "law_area": "divorce",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "A divorce order takes effect one month and one day after it is made. Neither party may remarry until the divorce order is final. Proceedings for property adjustment or spousal maintenance must be commenced within twelve months of the divorce becoming final, unless leave is granted.",
-    "source": "divorce_effect_guide.md",
-    "law_area": "divorce",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "In proceedings for nullity, the applicant must establish that the marriage is void on one of the statutory grounds, including that one party was already married, the parties are within prohibited degrees of relationship, consent was obtained by duress or fraud, or a party was not of marriageable age.",
-    "source": "nullity_statute_note.md",
+    "id": "divorce_children",
+    "text": "Where there are children of the marriage under the age of eighteen, the court must be satisfied that proper arrangements have been made for their care, welfare, and development before granting a divorce order.",
+    "source": "divorce_children.md",
     "law_area": "divorce",
     "document_type": "statute"
   },
   {
-    "text": "Pre-action procedures require parties to attempt to resolve the dispute through negotiation, mediation, or collaborative practice before commencing proceedings, except in cases involving urgency, family violence, or where such procedures would be futile.",
-    "source": "pre_action_procedures_note.md",
-    "law_area": "family",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Family Dispute Resolution is mandatory before filing parenting proceedings. A section 60I certificate from an accredited practitioner must be filed with the application, unless an exemption applies on grounds including family violence, urgency, or inability of a party to participate effectively.",
-    "source": "s60i_certificate_guide.md",
+    "id": "custody_best_interests",
+    "text": "In all parenting decisions, the best interests of the child is the paramount consideration. The court weighs the benefit of a meaningful relationship with both parents against the need to protect the child from harm, with protection from harm given greater weight.",
+    "source": "custody_best_interests.md",
     "law_area": "custody",
-    "document_type": "procedural_guide"
+    "document_type": "statute"
   },
   {
-    "text": "Consent orders formalise an agreement between the parties as a court order, giving it the same force and enforceability as an order made after a contested hearing. The court will only make consent orders if satisfied the arrangements are just and equitable (for property) or in the best interests of the child (for parenting).",
-    "source": "consent_orders_overview.md",
-    "law_area": "family",
+    "id": "custody_equal_responsibility",
+    "text": "There is a presumption that equal shared parental responsibility is in the best interests of the child. Equal shared parental responsibility concerns major long-term decisions such as education, religion, and health care. It does not mean equal time with each parent.",
+    "source": "custody_equal_responsibility.md",
+    "law_area": "custody",
     "document_type": "commentary"
   },
   {
-    "text": "An Application for Consent Orders is filed in the Federal Circuit and Family Court using the prescribed form. The application must contain a full financial disclosure section for property orders and a statement of arrangements for children where applicable. Parties should seek independent legal advice before signing.",
-    "source": "consent_orders_filing_guide.md",
+    "id": "custody_relocation",
+    "text": "A parent wishing to relocate with a child must obtain the other parent's consent or a court order. The court weighs the reasons for the move against the impact on the child's relationship with the non-relocating parent.",
+    "source": "custody_relocation.md",
+    "law_area": "custody",
+    "document_type": "practice_note"
+  },
+  {
+    "id": "custody_family_violence",
+    "text": "Where there are reasonable grounds to believe a parent has engaged in family violence or child abuse, the presumption of equal shared parental responsibility does not apply. Family violence includes physical, emotional, psychological, and economic abuse.",
+    "source": "custody_family_violence.md",
+    "law_area": "custody",
+    "document_type": "statute"
+  },
+  {
+    "id": "disclosure_duty",
+    "text": "Each party to a property settlement has a duty of full and frank disclosure. This includes all sources of income, assets, liabilities, superannuation, and financial resources, and extends to interests held through trusts and companies.",
+    "source": "disclosure_duty.md",
+    "law_area": "asset_disclosure",
+    "document_type": "statute"
+  },
+  {
+    "id": "disclosure_cryptocurrency",
+    "text": "Cryptocurrency holdings such as Bitcoin and Ethereum are property for family law purposes and must be disclosed. Valuation is taken at a date close to the hearing to account for price volatility.",
+    "source": "disclosure_cryptocurrency.md",
+    "law_area": "asset_disclosure",
+    "document_type": "practice_note"
+  },
+  {
+    "id": "disclosure_sanctions",
+    "text": "Failure to disclose assets may result in cost orders, adverse inferences drawn against the non-disclosing party, the striking out of their case, or final property orders being set aside years later under section 79A.",
+    "source": "disclosure_sanctions.md",
+    "law_area": "asset_disclosure",
+    "document_type": "commentary"
+  },
+  {
+    "id": "asset_disclosure_addbacks",
+    "text": "Where a party has dissipated assets in anticipation of separation, such as through gambling or deliberate waste, the court may add back the value of the dissipated property to the asset pool. Ordinary living expenses are not typically added back.",
+    "source": "asset_disclosure_addbacks.md",
+    "law_area": "asset_disclosure",
+    "document_type": "commentary"
+  },
+  {
+    "id": "spousal_maintenance",
+    "text": "Spousal maintenance may be ordered where one party cannot adequately support themselves and the other party has the capacity to pay. The court considers age, health, income, earning capacity, and the duration of the marriage.",
+    "source": "spousal_maintenance.md",
     "law_area": "family",
-    "document_type": "procedural_guide"
+    "document_type": "statute"
   },
   {
-    "text": "The court may make an order restraining a party from dealing with property pending final determination of the proceedings, where there is a real risk of dissipation or transfer of assets. Such orders are commonly referred to as freezing orders or Mareva injunctions in the family law context.",
-    "source": "injunctions_practice_note.md",
-    "law_area": "asset_disclosure",
+    "id": "property_four_step",
+    "text": "Property settlement follows a four-step approach: identify and value the property and liabilities, assess contributions (financial, non-financial, and homemaker), consider future needs factors, and determine whether the result is just and equitable.",
+    "source": "property_four_step.md",
+    "law_area": "family",
     "document_type": "practice_note"
   },
   {
-    "text": "Cryptocurrency holdings are property for family law purposes and must be disclosed. Valuation is taken at a date proximate to the hearing, acknowledging the volatility of the asset class. Exchanges and wallets may be the subject of subpoenas where cooperation is not forthcoming.",
-    "source": "cryptocurrency_disclosure_note.md",
-    "law_area": "asset_disclosure",
+    "id": "de_facto_relationships",
+    "text": "De facto partners may apply for property settlement on the same basis as married couples if they have lived together on a genuine domestic basis for at least two years, have a child together, or have made substantial contributions.",
+    "source": "de_facto_relationships.md",
+    "law_area": "family",
     "document_type": "practice_note"
   },
   {
-    "text": "In Ferreira v Ferreira [2023], the Court accepted expert evidence that the husband had transferred approximately 18 BTC to an anonymous wallet in the three months before separation. The value of the transferred holdings, calculated at the date of trial, was added back against the husband's entitlement.",
-    "source": "ferreira_v_ferreira_2023.pdf",
-    "law_area": "asset_disclosure",
-    "document_type": "judgment"
-  },
-  {
-    "text": "Step-parents may apply for parenting orders in relation to a stepchild where they have a relationship of significance with the child. The court will consider whether the biological parents remain the most appropriate carers and the nature of the step-parent's involvement in the child's life.",
-    "source": "step_parent_applications_note.md",
-    "law_area": "custody",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "Grandparents have standing to apply for parenting orders under section 65C of the Family Law Act. Applications are most commonly made where the parents are deceased, incapacitated, or where there has been a breakdown in the relationship between the grandparents and the parents that is affecting the child.",
-    "source": "grandparent_standing_guide.md",
-    "law_area": "custody",
-    "document_type": "procedural_guide"
-  },
-  {
-    "text": "Where a child is at risk of being removed from Australia in breach of a parenting order or pending proceedings, the court may order that the child's name be placed on the Family Law Watchlist maintained by the Australian Federal Police, preventing departure through any international airport or seaport.",
-    "source": "family_law_watchlist_note.md",
-    "law_area": "custody",
-    "document_type": "practice_note"
-  },
-  {
-    "text": "International child abduction is governed by the Hague Convention on the Civil Aspects of International Child Abduction, which provides for the prompt return of children wrongfully removed or retained across international borders. Return orders are generally mandatory unless a narrow exception, such as grave risk of harm, is established.",
-    "source": "hague_convention_overview.md",
-    "law_area": "custody",
+    "id": "family_binding_agreement",
+    "text": "Binding Financial Agreements allow parties to contract out of the ordinary property adjustment regime before, during, or after a relationship. Each party must receive independent legal advice for the agreement to be enforceable.",
+    "source": "family_binding_agreement.md",
+    "law_area": "family",
     "document_type": "commentary"
   }
 ]

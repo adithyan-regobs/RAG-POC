@@ -1,0 +1,77 @@
+[
+  {
+    "question": "How long do we need to be separated before I can file for divorce?",
+    "expected_sources": ["divorce_grounds.md"],
+    "law_area": "divorce"
+  },
+  {
+    "question": "Can my husband and I be separated while still living in the same house?",
+    "expected_sources": ["divorce_separation_under_one_roof.md", "divorce_grounds.md"],
+    "law_area": "divorce"
+  },
+  {
+    "question": "How do I actually file a divorce application?",
+    "expected_sources": ["divorce_application.md"],
+    "law_area": "divorce"
+  },
+  {
+    "question": "We have a 6-year-old. What do we need to sort out before the divorce is granted?",
+    "expected_sources": ["divorce_children.md"],
+    "law_area": "divorce"
+  },
+  {
+    "question": "What does the court look at when deciding custody of a child?",
+    "expected_sources": ["custody_best_interests.md"],
+    "law_area": "custody"
+  },
+  {
+    "question": "What is equal shared parental responsibility and does it mean 50/50 time?",
+    "expected_sources": ["custody_equal_responsibility.md"],
+    "law_area": "custody"
+  },
+  {
+    "question": "Can I move interstate with my child after separation?",
+    "expected_sources": ["custody_relocation.md"],
+    "law_area": "custody"
+  },
+  {
+    "question": "There has been family violence in the relationship. How does that affect custody?",
+    "expected_sources": ["custody_family_violence.md", "custody_equal_responsibility.md"],
+    "law_area": "custody"
+  },
+  {
+    "question": "Do I have to disclose my Bitcoin holdings in the property settlement?",
+    "expected_sources": ["disclosure_cryptocurrency.md", "disclosure_duty.md"],
+    "law_area": "asset_disclosure"
+  },
+  {
+    "question": "What happens if my ex hides assets during the divorce?",
+    "expected_sources": ["disclosure_sanctions.md", "disclosure_duty.md"],
+    "law_area": "asset_disclosure"
+  },
+  {
+    "question": "My husband gambled away $200,000 before we separated. Can I get that back in the settlement?",
+    "expected_sources": ["asset_disclosure_addbacks.md"],
+    "law_area": "asset_disclosure"
+  },
+  {
+    "question": "Can I claim spousal maintenance from my ex-wife?",
+    "expected_sources": ["spousal_maintenance.md"],
+    "law_area": "family"
+  },
+  {
+    "question": "How does the court actually divide property between separating couples?",
+    "expected_sources": ["property_four_step.md"],
+    "law_area": "family"
+  },
+  {
+    "question": "We never married but lived together for 5 years. Do I have the same property rights?",
+    "expected_sources": ["de_facto_relationships.md"],
+    "law_area": "family"
+  },
+  {
+    "question": "Can we sign a prenup or something similar before we get married?",
+    "expected_sources": ["family_binding_agreement.md"],
+    "law_area": "family"
+  }
+]

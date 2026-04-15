@@ -25,7 +25,7 @@ def rerank(
     top_k = top_k or settings.top_k_rerank
 
     pairs = [(query, c.text) for c in chunks]
-    scores = _model().predict(pairs)
+    scores = _model().predict(pairs, show_progress_bar=False)
 
     reranked = [
         c.model_copy(update={"score": float(s), "source": f"{c.source}+rerank"})

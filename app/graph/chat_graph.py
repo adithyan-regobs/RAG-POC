@@ -20,16 +20,28 @@ class ChatState(TypedDict, total=False):
 
 
 def _node_classify(state: ChatState) -> ChatState:
-    return {"route": classifier.classify(state["query"])}
+    logger.info("─── [chat:classify] query=%r", state["query"])
+    route = classifier.classify(state["query"])
+    logger.info("─── [chat:classify] → route=%s", route)
+    return {"route": route}
 
 
-def _node_rag(state: ChatState) -> ChatState:
+def     _node_rag(state: ChatState) -> ChatState:
+    logger.info("─── [chat:rag] delegating to RAG sub-graph")
     result = run_rag(state["query"], top_k=state.get("top_k"))
+    logger.info(
+        "─── [chat:rag] ← RAG returned answer (%d chars), %d sources",
+        len(result.answer),
+        len(result.sources),
+    )
     return {"answer": result.answer, "sources": result.sources}
 
 
 def _node_general(state: ChatState) -> ChatState:
-    return {"answer": llm_service.generate_direct_answer(state["query"]), "sources": []}
+    logger.info("─── [chat:general] direct LLM (no retrieval)")
+    answer = llm_service.generate_direct_answer(state["query"])
+    logger.info("─── [chat:general] ← answer (%d chars)", len(answer))
+    return {"answer": answer, "sources": []}
 
 
 def _route(state: ChatState) -> str:
